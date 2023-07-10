@@ -1,6 +1,6 @@
-import { discordRealTimeData } from "ts-library/discord-bot"
-import cuiIO from "ts-library/cuiIO"
-import expressd from "ts-library/expressd"
+import { discordRealTimeData } from "./ts-library/discord-bot"
+import cuiIO from "./ts-library/cuiIO"
+import expressd from "./ts-library/expressd"
 
 /**
  * 改善する前に、README.mdをお読みください。
